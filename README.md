@@ -1,2 +1,5 @@
-# investor_behavior_rate_regimes
-Analysis of retail investor loss aversion across different interest rate regimes; code for working paper
+# Investor Behavior Across Different Interest Rate Regimes
+Analysis of retail investor loss aversion across different interest rate regimes; code for working paper.
+
+## Abstract
+In this paper, I measure the loss aversion of simulated investors with respect to portfolio returns across different interest rate regimes. Three investor profiles, risk-averse, risk-neutral, and risk-seeking, are modeled under a Cumulative Prospect Theory (CPT) framework, and loss aversion is numerically identified by minimizing the squared difference between the CPT-optimal and Mean-Variance efficient portfolio allocations. The findings demonstrate that implied loss aversion is significantly dependent on the prevailing interest rate environment. Specifically, loss aversion decreases in low-interest-rate regimes, encouraging a statistically and economically significant shift toward riskier assets. Conversely, in high-interest-rate regimes, loss aversion increases, leading to a portfolio re-allocation towards safer assets. These results provide strong evidence that the market’s psychological state, as captured by loss aversion, responds systematically to macroeconomic uncertainty and the prevailing stance of monetary policy.
